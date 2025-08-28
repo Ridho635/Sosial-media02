@@ -29,4 +29,5 @@ Cocok digunakan sebagai **landing page personal** atau **kartu nama digital**.
 1. Clone repository ini:
    ```bash
    git clone https://github.com/Ridho635/Sosial-media02.git
-   '''
+  '''
+
